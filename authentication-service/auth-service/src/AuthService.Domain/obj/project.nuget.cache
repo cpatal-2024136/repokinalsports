@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kHgffKS0hdY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\corre\\OneDrive\\Escritorio\\Kinal Sports\\Kinal Sports\\authentication-service\\auth-service\\src\\AuthService.Domain\\AuthService.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\corre\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
